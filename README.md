@@ -28,4 +28,4 @@ Inspired by a project tutorial by Data With Baraa (https://www.youtube.com/watch
 ## 📬 Contact
 
 For feedback, suggestions, or collaboration:
-- LinkedIn: [Shivamguptasg]([https://linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/shivamguptasg/))
+- LinkedIn: [Shivamguptasg](https://linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/shivamguptasg/)
