@@ -24,3 +24,8 @@ This Tableau project is an interactive HR analytics dashboard designed to help H
 ## 🙏 Credits
 
 Inspired by a project tutorial by Data With Baraa (https://www.youtube.com/watch?v=UcGF09Awm4Y&t=3903s)
+
+## 📬 Contact
+
+For feedback, suggestions, or collaboration:
+- LinkedIn: [Shivamguptasg]([https://linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/shivamguptasg/))
