@@ -23,3 +23,24 @@ Fix Texts
 Refine Charts
 Fix Spacing (Inner/Outer Spacing)
 Add Logos & Icons
+
+## Tableau Workbooks
+
+### 📊 Main Dashboard
+ - HR|Summary:- Includes the final summary view with Overview, Demographics, and Income sections.
+
+### 📊 Other Workbooks
+  -Hired By Year
+  -Terminated By Year
+  -Departments
+  -States
+  -Cities
+  -Location
+  -Map States
+  -Gender
+  -Age vs Education
+  -Age Groups
+  -Education Levels
+  -Education vs Performance
+  -Gender vs Education Level
+  -Age vs Salary
